@@ -1,4 +1,4 @@
-#Solidity Examples
+# Solidity Examples
 Solidity is a great tool for developing smart contracts. It is a language that is designed to be compiled to bytecode, which is then executed on the blockchain.
 
 ## Docmentation
